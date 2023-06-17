@@ -20,6 +20,8 @@ My name is Jeongyun Choi ‼ Front-End Junior Developer 💻
 <div align=left>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
   <img src="https://img.shields.io/badge/zira-0052CC?style=for-the-badge&logo=Zira&logoColor=white">
   <br>
@@ -27,6 +29,9 @@ My name is Jeongyun Choi ‼ Front-End Junior Developer 💻
   <img src="https://img.shields.io/badge/microsoftteams-6264A7?style=for-the-badge&logo=MicrosoftTeams&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> -->
+  <br>
+  <br>
+  
 </div>
 
 
