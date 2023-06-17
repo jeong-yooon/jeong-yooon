@@ -30,7 +30,7 @@ My name is Jeongyun Choi ‼ Front-End Junior Developer 💻
   <!-- <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> -->
   <br>
-  <br>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   
 </div>
 
