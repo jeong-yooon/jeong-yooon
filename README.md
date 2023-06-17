@@ -2,10 +2,10 @@
 My name is Jeongyun Choi ‼ Front-End Junior Developer 💻
 
 ### 🌈 SKILL
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white" style="white-space:nowrap;">
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="white-space:nowrap;">
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="white-space:nowrap;">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="white-space:nowrap;">
 <!-- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> -->
