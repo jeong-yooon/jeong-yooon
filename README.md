@@ -35,8 +35,8 @@ My name is Jeongyun Choi ‼ Front-End Junior Developer 💻
 </div>
 
 ### 🌈 BLOG
-develop - https://velog.io/@jeong_yooony <br>
-study - https://jeong-yooon.tistory.com/
+<div>develop - https://velog.io/@jeong_yooony</div>
+<div>study - https://jeong-yooon.tistory.com</div>
 
 
 <!--
