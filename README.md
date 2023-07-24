@@ -34,6 +34,10 @@ My name is Jeongyun Choi ‼ Front-End Junior Developer 💻
   
 </div>
 
+### 🌈 BLOG
+개발 https://velog.io/@jeong_yooony
+공부 https://jeong-yooon.tistory.com/
+
 
 <!--
 **jeong-yooon/jeong-yooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
