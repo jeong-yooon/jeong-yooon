@@ -1,6 +1,8 @@
 ## Hi 👋 Welcome to my GitHub 😁
 My name is Jeongyun Choi ‼ Front-End Junior Developer 💻
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjy1819)](https://solved.ac/chjy1819/)
+
 ### 🌈 SKILL
 <div align=left>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white">
