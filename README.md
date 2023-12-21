@@ -5,7 +5,7 @@ My name is Jeongyun Choi ‼ Front-End Junior Developer 💻
 
 ### 🌈 SKILL
 <div align=left>
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -21,10 +21,10 @@ My name is Jeongyun Choi ‼ Front-End Junior Developer 💻
   <br>
   <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> -->
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"> -->
 </div>
 
 ### 🌈 TOOL
@@ -38,8 +38,8 @@ My name is Jeongyun Choi ‼ Front-End Junior Developer 💻
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/microsoftteams-6264A7?style=for-the-badge&logo=MicrosoftTeams&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"> -->
   <br>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   
