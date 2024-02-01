@@ -5,14 +5,14 @@ My name is Jeongyun Choi ‼ Front-End Junior Developer 💻
 
 ### 🌈 SKILL
 <div align=left>
-<!--   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=Jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=React&logoColor=white">
@@ -29,19 +29,19 @@ My name is Jeongyun Choi ‼ Front-End Junior Developer 💻
 
 ### 🌈 TOOL
 <div align=left>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-  <img src="https://img.shields.io/badge/microsoftteams-6264A7?style=for-the-badge&logo=MicrosoftTeams&logoColor=white">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+  <img src="https://img.shields.io/badge/microsoftteams-6264A7?style=flat-square&logo=MicrosoftTeams&logoColor=white">
   <br>
-<!--   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"> -->
-<!--   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=AmazonAWS&logoColor=white"> -->
 <!--   <br> -->
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
   
 </div>
 
